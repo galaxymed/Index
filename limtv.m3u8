@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1920000
-https://qslink.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/limtvok/live
+https://cdn.jmvstream.com/w/IPC-7041/camera.stream/chunklist.m3u8
