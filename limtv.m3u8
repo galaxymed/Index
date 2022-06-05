@@ -1,4 +1,9 @@
 #EXTM3U 
 #EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-DISCONTINUITY-SEQUENCE
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:5.638967,
+https://ale804.github.io/tv/Opener0.ts?raw=true
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
-https://ale804.github.io/tv/Opener.m3u8
+https://kslink.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/limtvok/live
