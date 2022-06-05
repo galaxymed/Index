@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
-https://kslink.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/limtvok/live
 #EXT-X-DISCONTINUITY
 #EXT-X-PLIST
 https://ale804.github.io/tv/Opener0.ts?raw=true
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
+https://kslink.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/limtvok/live
