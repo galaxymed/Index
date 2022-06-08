@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
-https://kslink.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/limtvok/live
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/limtvok/live
