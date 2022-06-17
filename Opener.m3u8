@@ -3,5 +3,5 @@
 #EXT-X-TARGETDURATION:6
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:5.638967,
-https://qslink.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/limtvok/live
+https://peerlook.ru/static/streaming-playlists/hls/03da437c-c956-4318-b090-aa00cc2c4c55/master.m3u8
 #EXT-X-ENDLIST
