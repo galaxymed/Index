@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
-https://uslink.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/limtvok/live
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/index.m3u8
