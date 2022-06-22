@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
-https://qslink.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/reduno/live
+https://playlim.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/reduno/live
