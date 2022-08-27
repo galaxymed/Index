@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.twitch.tv/pandamaxlive/live
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/pandamaxlive/live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
 https://cdn.jmvstream.com/w/IPC-7041/camera.stream/chunklist.m3u8
