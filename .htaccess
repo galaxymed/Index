@@ -1,3 +1,1 @@
-Options +FollowSymLinks
-RewriteEngine On
-RewriteRule ^/tv/radio.mp3 http://stream.zeno.fm/ym0qh6zmg1duv?id=$1 [QSA,L]
+RewriteRule ^radio.mp3$ http://stream.zeno.fm/ym0qh6zmg1duv?id=$1 [R=301]
