@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=900000, codec="mpeg"
+#EXT-X-STREAM-INF:BANDWIDTH=12800,CODECS="mp4a.40.5"
 http://stream.zeno.fm/ym0qh6zmg1duv.mp3
