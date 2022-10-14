@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
-https://livestreams.flote.app:5443/flote/streams/a0f9afa4-50c6-4c61-a287-be6245c4f0ee.m3u8
+https://cablemor.andremor.dev/live/vozpopuli/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
 https://cloud.odysee.live/live/185906d510c546f56f028eeded4458ced1221f4c.m3u8
