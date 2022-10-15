@@ -7,7 +7,36 @@
   <title>Customise HTML5 video player</title>
   <link href="https://vjs.zencdn.net/7.11.4/video-js.css" rel="stylesheet" />
   <link href="https://unpkg.com/@videojs/themes@1/dist/city/index.css" rel="stylesheet">
+  <style>
+.video-js {
+  width: 800px;
+  height: 450px;
+}
 
+.vjs-custom-theme {
+  .vjs-control-bar{
+    background-color: transparent !important;
+  }
+  .vjs-big-play-button {
+    opacity: 0 !important;
+  }
+  .vjs-volume-control {
+    align-items: center !important;
+  }
+  
+  .vjs-play-progress:before {
+    top: -4px !important;
+  }
+  .vjs-fullscreen-control {
+    .vjs-icon-placeholder {
+      &:before {
+        line-height: 30px;
+      }
+    }
+  }
+  button {
+    &:hover {
+</style>
 </head>
 <body>
   
