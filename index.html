@@ -1,14 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>LIM TV</title>
-<link href="https://vjs.zencdn.net/7.3.0/video-js.css" rel="stylesheet">
-<script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Customise HTML5 video player</title>
+  <link href="https://vjs.zencdn.net/7.11.4/video-js.css" rel="stylesheet" />
+  <link href="https://unpkg.com/@videojs/themes@1/dist/city/index.css" rel="stylesheet">
+
 </head>
 <body>
-<video id="player" class="video-js vjs-default-skin" height="360" width="640" controls preload="none">
-<source src="https://live.limplay.ml/limtv.m3u8" type="application/x-mpegURL"/></video> 
-<script> var player = videojs('#player');</script> 
+  
+    <video class="video-js vjs-custom-theme " data-setup="{}" autoplay muted loop controls>
+         <source src="https://live.limplay.ml/limtv.m3u8" type="video/mp4" />
+
+      
+    </video>
+  
+<script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>
+
+  
 </body>
-</html>
