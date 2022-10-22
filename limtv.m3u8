@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
-https://qslink.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/uniontvpy/live
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
 https://live.limplay.ml/openerlim.m3u8
