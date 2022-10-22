@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+https://corsproxy.io/?https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900000
 https://live.limplay.ml/openerlim.m3u8
