@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION
-#EXT-X-STREAM-INF:BANDWIDTH=9000000
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1829483,CODECS="avc1.66.31,mp4a.40.2",RESOLUTION=640x360
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/uniontvpy/live
