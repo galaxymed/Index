@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1829483,CODECS="avc1.66.31,mp4a.40.2",RESOLUTION=640x360
+#EXT-X-STREAM-INF:BANDWIDTH=1829483,CODECS="avc1.66.31,mp4a.40.2"
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
