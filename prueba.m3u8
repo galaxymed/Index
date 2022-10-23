@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION
-#EXT-X-STREAM-INF:BANDWIDTH=9000000,CODECS="avc1.66.31,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=9000000
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
