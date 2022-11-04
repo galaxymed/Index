@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000
-qlim.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/uniontvpy/live
+https://qslink.herokuapp.com/iptv-query?streaming-ip=https://twitch.tv/uniontvpy/live
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000
 https://live.limplay.ml/openerlim.m3u8
