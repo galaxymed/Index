@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000
-http://live.brimecdn.com/live/ttNw9YXfqGojyUuyspW8/playlist.m3u8
+https://live.brimecdn.com:443/live/ttNw9YXfqGojyUuyspW8/chunks.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=600000
 https://live.limplay.ml/openerlim.m3u8
-
