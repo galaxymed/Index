@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=9594000
-https://srv.panelcast.net/demo2021/demo2021/playlist.m3u8
+https://srv.panelcast.net:443/demo2021/demo2021/chunklist_w1622084186.m3u8
