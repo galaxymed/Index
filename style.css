@@ -33,7 +33,7 @@ ul{
 
 .dark{
   padding:15px;
-  background:01b0aa;
+  background:#01b0aa;
   color:#ffffff;
   margin-top:10px;
   margin-bottom:10px;
@@ -41,7 +41,7 @@ ul{
 
 /* Header **/
 header{
-  background:01b0aa;
+  background:#01b0aa;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
@@ -87,7 +87,7 @@ header a:hover{
 /* Showcase */
 #showcase{
   min-height:400px;
-  background:url('https://live.limplay.ml/fondoweb.png') no-repeat;
+  background:url('../img/fondoweb.png') no-repeat;
   background-position: center;
   background-size: cover;
   text-align:center;
