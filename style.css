@@ -24,7 +24,7 @@ ul{
 
 .button_1{
   height:38px;
-  background:#ff000a;
+  background:#092f50;
   border:0;
   padding-left: 20px;
   padding-right:20px;
@@ -33,7 +33,7 @@ ul{
 
 .dark{
   padding:15px;
-  background:#35424a;
+  background:01b0aa;
   color:#ffffff;
   margin-top:10px;
   margin-bottom:10px;
@@ -41,7 +41,7 @@ ul{
 
 /* Header **/
 header{
-  background:#35424a;
+  background:01b0aa;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
