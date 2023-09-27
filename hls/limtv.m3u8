@@ -3,5 +3,3 @@
 #EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="src",NAME="",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,CODECS="mp4a.40.2,avc1.640020",RESOLUTION=1280x720
 https://tgn.bozztv.com/ssh101/ssh101/invasivamedia/chunks.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2594000,CODECS="mp4a.40.2,avc1.640020"
-https://59ce1298bfb98.streamlock.net/maxplus/maxplus/chunklist.m3u8
