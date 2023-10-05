@@ -2,5 +2,3 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 https://streaming.zappix.live:19360/limtv/limtv.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=2,BANDWIDTH=2000000
-https://59ce1298bfb98.streamlock.net:443/maxplus/maxplus/chunklist.m3u8
