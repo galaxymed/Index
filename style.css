@@ -2,7 +2,7 @@ body{
   font: 15px/1.5 Century Gothic;
   padding:0;
   margin:0;
-  background-color:#092f50;
+  background-color:#E6E6E6;
 }
 
 /* Global */
@@ -45,7 +45,7 @@ header{
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
-  border-bottom:#ffcb00 3px solid;
+  border-bottom:#DF01D7 3px solid;
 }
 
 header a{
