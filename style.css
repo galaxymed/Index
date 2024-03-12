@@ -33,7 +33,7 @@ ul{
 
 .dark{
   padding:15px;
-  background:#7401DF;
+  background:#FFFFFF;
   color:#ffffff;
   margin-top:10px;
   margin-bottom:10px;
@@ -41,7 +41,7 @@ ul{
 
 /* Header **/
 header{
-  background:#7401DF;
+  background:#FFFFFF;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
@@ -173,7 +173,7 @@ footer{
   padding:20px;
   margin-top:20px;
   color:#ffff;
-  background-color:#092f50;
+  background-color:#3A01DF;
   text-align: center;
 }
 
